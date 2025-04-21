@@ -1,5 +1,4 @@
-# SEMANA 1:
-**ALGORITMICA ELEMENTAL:**
+# ALGORITMICA ELEMENTAL:
 * La algorítmica elemental es el estudio y diseño de algoritmos básicos que resuelven problemas simples o fundamentales. Se centra en cómo construir pasos lógicos y ordenados para alcanzar una solución, usando estructuras y herramientas básicas que forman la base del pensamiento computacional.
 
 ### **ELEMENTOS DE LA ALGORITMICA ELEMENTAL**
