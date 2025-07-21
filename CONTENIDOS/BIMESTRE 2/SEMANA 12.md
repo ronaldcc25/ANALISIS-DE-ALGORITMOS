@@ -1,8 +1,4 @@
-# 🎯 Resumen de Algoritmos de Ordenación con Divide y Vencerás
-
-## 🎯 Objetivo
-
-Este apartado se centra en comprender y aplicar algoritmos de ordenación basados en la estrategia **Divide y Vencerás**, destacando su eficiencia y aplicaciones, según el documento **"Unidad 5 - Algoritmos Divide y Vencerás"** de **Manuel Sucunuta (UTPL)**.
+# 🎯 Algoritmos de Ordenación con Divide y Vencerás
 
 ---
 
